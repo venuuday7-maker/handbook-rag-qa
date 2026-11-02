@@ -1,0 +1,4 @@
+numpy
+scikit-learn
+pytest
+# optional, only for --llm: anthropic

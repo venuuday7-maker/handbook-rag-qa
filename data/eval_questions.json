@@ -1,0 +1,16 @@
+[
+ {"question": "What is the difference between the JDK, the JRE and the JVM?", "answer_sections": ["2.1"]},
+ {"question": "What does the JIT compiler do at run time?", "answer_sections": ["2.5"]},
+ {"question": "Are objects stored on the heap or on the stack?", "answer_sections": ["2.6"]},
+ {"question": "What is bytecode and what is inside a class file?", "answer_sections": ["2.3"]},
+ {"question": "How does the class loader load and link a class?", "answer_sections": ["2.4"]},
+ {"question": "What is an LTS release of Java?", "answer_sections": ["1.4", "2.8"]},
+ {"question": "What is pseudocode and how is it used to plan an algorithm?", "answer_sections": ["1.3"]},
+ {"question": "How do I check that the JDK was installed correctly?", "answer_sections": ["1.6"]},
+ {"question": "What is the difference between a compile-time error and a run-time error?", "answer_sections": ["1.2", "1.9"]},
+ {"question": "What does a Java backend developer do day to day?", "answer_sections": ["1.5"]},
+ {"question": "How can a Java program read input typed by the user?", "answer_sections": ["1.8"]},
+ {"question": "Why can the same Java program run on Windows, Mac and Linux?", "answer_sections": ["2.7"]},
+ {"question": "How do I understand a compiler error message?", "answer_sections": ["1.9"]},
+ {"question": "What is the lifecycle of a Java program from source file to running?", "answer_sections": ["2.2"]}
+]
